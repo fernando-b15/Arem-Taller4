@@ -1,0 +1,6 @@
+co/edu/escuelaing/sparkd/SparkD/SparkDServer.class
+co/edu/escuelaing/sparkd/httpserver/Request.class
+co/edu/escuelaing/sparkd/httpserver/HttpServer.class
+co/edu/escuelaing/sparkd/SparkD/SparkD.class
+co/edu/escuelaing/sparkd/urlreader/URLScanner.class
+co/edu/escuelaing/sparkd/urlreader/URLReader.class
